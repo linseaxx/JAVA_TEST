@@ -1,2 +1,2 @@
 # JAVA_TEST
-hou to use
+how to use
